@@ -9,5 +9,7 @@
 <body>
 <h1>mi nombre es: behatriz</h1>	
 <h1>mi nombre es jazmin espinoza</h1>
+<img src="mini.jpg" alt="">
+	<img src="descarga.jpg" alt="">
 </body>
 </html>
